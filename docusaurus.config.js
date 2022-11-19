@@ -43,6 +43,7 @@ const config = {
           blogTitle: 'Docusaurus blog!',
           blogDescription: 'A Docusaurus powered blog!',
           postsPerPage: 'ALL',
+          blogSidebarCount: 0,
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
